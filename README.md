@@ -3,6 +3,9 @@
 This project simulates a modular, real-time task scheduler for autonomous driving (AD) using C++17 and multithreading.  
 It's designed as a **portfolio-grade project** to demonstrate systems integration, real-time logic, and autonomous behavior simulation.
 
+![ADScheduler](https://github.com/user-attachments/assets/5ca02681-4d7e-4b0f-a64c-f823d466298f)
+
+
 ---
 
 # Why This Project?
